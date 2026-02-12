@@ -1,0 +1,3 @@
+1. LLM staat voor Large Language Mode. Deze AI modellen kunnen grote teksten verwerken, analyseren, samenvatten en nog veel meer. Een LLM begrijpt tekst en kan opdrachten uitvoeren. Het is dus een geavanceerde AI systeem. AI modellen werken dankzij een algoritme en AI leert door te doen, ook al maakt een AI een fout.
+
+2. Ik vind dat AI een risico is voor developers want AI modellen kunnen veel fouten maken. He moet heel erg duidelijk zijn met je prompt. Credits zijn ook een grote risico. Zonder geld kan je geen gebruik maken van de beste AI modellen.
